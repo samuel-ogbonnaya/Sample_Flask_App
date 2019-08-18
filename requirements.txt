@@ -5,8 +5,7 @@ gunicorn==19.6.0
 itsdangerous==1.1.0                   
 jinja2==2.10.1                   
 markupsafe==1.1.1                         
-pip==19.1.1                 
-python==3.7.4                
+pip==19.1.1                               
 setuptools==41.0.1                   
 sqlite==3.29.0               
 vc==14.1                
