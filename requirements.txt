@@ -3,7 +3,7 @@ click==7.0
 flask==1.1.1                    
 gunicorn==19.6.0                  
 itsdangerous==1.1.0                   
-jinja2==2.10.1                   
+jinja2==2.11.3                   
 markupsafe==1.1.1                         
 pip==19.1.1                               
 setuptools==41.0.1                                                    
